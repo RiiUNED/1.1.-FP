@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1610878171 source:c:\users\ricardo\documents\c+-\practicas\farmadron\farmadron\farmadron\alldrugs.cpp
+	"AllDrugs.h"
+
+1610878105 c:\users\ricardo\documents\c+-\practicas\farmadron\farmadron\farmadron\alldrugs.h
+	"Drug.h"
+
+1610878373 c:\users\ricardo\documents\c+-\practicas\farmadron\farmadron\farmadron\drug.h
+	"Utilities.h"
+
+1608068717 c:\users\ricardo\documents\c+-\practicas\farmadron\farmadron\farmadron\utilities.h
+	<stdio.h>
+	<string.h>
+
